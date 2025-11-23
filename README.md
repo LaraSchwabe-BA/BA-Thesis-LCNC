@@ -9,4 +9,7 @@ This repository is used to share and distribute additional materials used during
   * QGS Details: Additional Information on the QGS Corpus (DOI, Abstract, Keywords)
   * Database Selection: Used to create a list of databases for the SLR that ensures all QGS papers can be retrieved
   * Exclusion metrics: summary-table that tracks how many papers from the QGS-Pool were excluded at each step
+* Automated Search Process: Excel File containing Sheets: 'Key Facts', 'Key Facts_Charts', 'Automated Search AIS eLibrary', 'Automated Search DBLP', 'Automated Search GI DL', 'Automated Search ACM DL', 'Automated Search IEEEXplore'
+  * Key Facts:  summary-table that trakc how many papers were removed at each step for all 5 databases, information on duplicates that were removed, search string adaptation details for the databases' syntax
+  * Automated Search Sheets: yielded paper for each database and the tracking of selection criteria checks, inclusion decisions
 * Data Extraction Table: Columns: Study-ID (internally used to keep track), Title, Author(s), Year (of publication), Venue, RQ adressed, Research Method, Summarized Key Findings
