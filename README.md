@@ -12,5 +12,5 @@ This repository is used to share and distribute additional materials used during
 * Automated Search Process: Excel File containing Sheets: 'Key Facts', 'Key Facts_Charts', 'Automated Search AIS eLibrary', 'Automated Search DBLP', 'Automated Search GI DL', 'Automated Search ACM DL', 'Automated Search IEEEXplore'
   * Key Facts:  summary-table that trakc how many papers were removed at each step for all 5 databases, information on duplicates that were removed, search string adaptation details for the databases' syntax
   * Automated Search Sheets: yielded paper for each database and the tracking of selection criteria checks, inclusion decisions
-* Data Extraction Table: Columns: Study-ID (internally used to keep track), Title, Author(s), Year (of publication), Venue, RQ adressed, Research Method, Summarized Key Findings
+* Data Extraction Table: Bibliographic information, Study characteristics, thematic focus, key findings
 * MyReferences.bib: bib-tex file containing all sources used
