@@ -13,4 +13,5 @@ This repository is used to share and distribute additional materials used during
   * Key Facts:  summary-table that trakc how many papers were removed at each step for all 5 databases, information on duplicates that were removed, search string adaptation details for the databases' syntax
   * Automated Search Sheets: yielded paper for each database and the tracking of selection criteria checks, inclusion decisions
 * Data Extraction Table: 2 Sheets: 'CodeList' includes the final list of deducted and inducted codes used for categorization of the papercorpus; 'DataExtraction' inlcudes the coded papercorpus.
+* Paper Corpus: A complete list of the underlying paper corpus including study ID, Title, Authors, Publication Year, Venue
 * MyReferences.bib: bib-tex file containing all sources used
